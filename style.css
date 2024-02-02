@@ -30,6 +30,16 @@ body {
   margin-bottom: 20px;
   color: #ffffff;
 }
+.header_text2 {
+  font-family: "Nunito";
+  font-size: 50px;
+  font-weight: bold;
+
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: black;
+}
 
 .text {
   font-family: "Nunito";
